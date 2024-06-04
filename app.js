@@ -118,30 +118,30 @@
 
 //Question 10 
 
-// // if Statements 
-// if(operator=="+"){
-//     document.write(num +num2);
-// }
-// else if(operator=="-"){
+// if Statements 
+if(operator=="+"){
+    document.write(num +num2);
+}
+else if(operator=="-"){
 
-//     document.write(num -num2);
-// }
-// else if(operator=="*"){
+    document.write(num -num2);
+}
+else if(operator=="*"){
 
-//     document.write(num * num2);
-// }
-// else if(operator=="/"){
+    document.write(num * num2);
+}
+else if(operator=="/"){
 
-//     document.write(num /num2);
-// }
-// else if(operator=="%"){
+    document.write(num /num2);
+}
+else if(operator=="%"){
 
-//     document.write(num %num2);
-// }
-// else{
+    document.write(num %num2);
+}
+else{
 
-//     document.write("enter a valid operator");
-// }
+    document.write("enter a valid operator");
+}
 
 
 // chapter 11-13
